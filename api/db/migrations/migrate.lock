@@ -1,0 +1,14 @@
+# Prisma Migrate lockfile v1
+
+20201201024212-create-post
+20201201032143-create-contact
+20201201034752-migration
+20201203034251-create-post
+20201203034843-fix-contact
+20201203040657-drop-contacts
+20201203040815-create-contact
+20201203041953-drop-contacts1
+20201203042118-create-contacts-again
+20201203042315-add-contacts-email
+20201203151836-delete-contact
+20201203152117-recreate-contact
